@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chubsie
+- 👋 Hi, I’m Chubs (Mr Magoo if your nasty)
 - 👀 I’m interested in Web3 ⛓️
 - 🌱 I’m currently learning Solidity ✊
 - 💞️ I’m looking to collaborate on Decentralized Projects
